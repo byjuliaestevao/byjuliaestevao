@@ -20,14 +20,14 @@ Busco constantemente aprimorar minhas habilidades técnicas e desenvolver projet
 ## 📚 Cursos & Certificações
 
 ### Linguagens & Ferramentas
-- [x] 🐍 **Python** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-- [x] 📊 **Power BI** ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=white)
-- [x] 📈 **Excel** ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-- [x] 🗄️ **SQL** ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white)
-- [x] 💾 **Banco de Dados** ![Database](https://img.shields.io/badge/-Database-4DB33D?style=flat&logo=database&logoColor=white)
+ ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+ ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=white)
+ ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+ ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white)
+ ![Database](https://img.shields.io/badge/-Database-4DB33D?style=flat&logo=database&logoColor=white)
 
 ### Cloud & Segurança
-- [x] ☁️ **Microsoft Azure** ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)  
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)  
   - AI-900 – Microsoft Azure AI Fundamentals  
   - AZ-500 – Microsoft Azure Security Engineer
 
