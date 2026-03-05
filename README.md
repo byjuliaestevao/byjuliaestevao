@@ -31,6 +31,13 @@ Busco constantemente aprimorar minhas habilidades técnicas e desenvolver projet
   - AI-900 – Microsoft Azure AI Fundamentals  
   - AZ-500 – Microsoft Azure Security Engineer
 
+### Eletrônica & Maker
+ ![Maker](https://img.shields.io/badge/-Maker-FF6F00?style=flat&logo=arduino&logoColor=white)
+ ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+
+### Idiomas
+**Inglês** – Intermediário/Avançado (Wizard)
+
 ---
 
 ## 🌱 Atualmente estudando
